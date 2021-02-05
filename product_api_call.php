@@ -20,7 +20,8 @@ $product_name = $_POST["p_name"];
 $product_price = $_POST["p_price"];
 $product_quantity = $_POST["p_quantity"];
 
-echo $product_name;
+
+
 
 
 //sql connection
